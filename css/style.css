@@ -1,0 +1,52 @@
+
+@font-face {
+  font-family:'fuenteH1';
+  src : url('font/Chocolate_and_Vanilla.ttf');
+}
+
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 115%;
+}
+
+header,footer{
+  background-color:#BAB9AF;
+}
+
+main{
+  background-color:#F5D336;
+  font-size: 115%;
+}
+
+li{
+  display:inline-block;
+  margin-right: 60px;
+  /*I used margin-right, because it helped me with the separation between words in the list*/
+}
+
+nav{
+  background-color:#B3FBFF;
+}
+
+h1{
+
+}
+
+
+ul{
+  display:table;
+}
+
+
+
+h1{
+  color:#000FFF;
+  font-family: 'fuenteH1',Helvetica, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 30px;
+}
